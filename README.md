@@ -12,7 +12,7 @@
 -------------------------------
  * HC_05：<br>
 	 * STATE&nbsp;&nbsp;&nbsp;&nbsp;-------     X       状态指示端：		空脚<br>
-	 * RXD&ensp;-------     PB10    蓝牙输入端：		引脚复用：USART3_TX<br>
+	 * RXD&emsp;&ensp;-------     PB10    蓝牙输入端：		引脚复用：USART3_TX<br>
 	 * TXD&emsp;&emsp;-------     PB11    蓝牙输出端：		引脚复用：USART3_RX<br>
 	 * GND&emsp;&emsp;-------     GND     蓝牙接地端：		板载接地<br>
 	 * VCC&emsp;&emsp;-------     VCC     蓝牙供电端：		板载供电 +5V<br>
