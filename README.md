@@ -47,7 +47,7 @@
 ### 蓝牙串口通讯<br>
 -------------------------------
  * HC_05数据包协议：<br>
-	 * 包头&emsp;&ensp;-&ensp;1字节&emsp;-   固定值：0x5A<br>
-	 * 数据&emsp;&ensp;-&ensp;自定义 &thinsp;-   自定义<br>
-	 * 效验和 &thinsp;-&ensp;1字节&emsp;-   数据所有字节之和的低8位<br>
-	 * 包尾&emsp;&ensp;-&ensp;1字节&emsp;-   固定值：0x5A<br>
+	 * 包头&emsp;&ensp;-&ensp;1字节&emsp;-&ensp;固定值：0x5A<br>
+	 * 数据&emsp;&ensp;-&ensp;自定义 &thinsp;-&ensp;自定义<br>
+	 * 效验和 &thinsp;-&ensp;1字节&emsp;-&ensp;数据所有字节之和的低8位<br>
+	 * 包尾&emsp;&ensp;-&ensp;1字节&emsp;-&ensp;固定值：0x5A<br>
