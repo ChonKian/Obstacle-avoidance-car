@@ -36,7 +36,7 @@
 ### 超声波测距模块<br>
 -------------------------------
  * HY-SRF05：<br>
-	 * VCC&emsp;------- VCC 超声波供电端：              板载供电 +5V<br>
+	 * VCC&emsp;&thinsp;------- VCC 超声波供电端：              板载供电 +5V<br>
 	 * TRIG&emsp;------- PA2 超声波触发控制端：          普通输出：GPIOA_Pin_2<br>
 	 * ECHO &thinsp;------- PA3 超声波回响信号端：          普通输出：GPIOA_Pin_3<br>
 	 * OUT&emsp;&thinsp;------- X   超声波开关量输出端：        空脚<br>
