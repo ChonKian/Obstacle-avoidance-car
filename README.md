@@ -11,7 +11,7 @@
 ### 蓝牙串口通信模块<br>
 -------------------------------
  * HC_05：<br>
-	 * STATE&emsp;-------     X       状态指示端：		空脚<br>
+	 * STATE&nbsp;-------     X       状态指示端：		空脚<br>
 	 * RXD&emsp;&emsp;-------     PB10    蓝牙输入端：		引脚复用：USART3_TX<br>
 	 * TXD&emsp;&emsp;-------     PB11    蓝牙输出端：		引脚复用：USART3_RX<br>
 	 * GND&emsp;&emsp;-------     GND     蓝牙接地端：		板载接地<br>
