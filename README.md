@@ -29,9 +29,9 @@
 ### 舵机驱动模块<br>
 -------------------------------
  * SG90：<br>
-	 * VCC&emsp;&emsp;&nbsp;------- VCC 舵机供电端：        板载供电 +5V<br>
-	 * PWM_IN	------- PE5 舵机脉冲输入端：    引脚复用：PWM   TIM9_CH1<br>
-	 * GND&emsp;&emsp;------- GND 舵机供电端：        板载接地<br>
+	 * VCC&emsp;&emsp;&nbsp;------- VCC&ensp;舵机供电端：        板载供电 +5V<br>
+	 * PWM_IN	------- PE5&ensp;&nbsp;舵机脉冲输入端：    引脚复用：PWM   TIM9_CH1<br>
+	 * GND&emsp;&emsp;------- GND&ensp;舵机供电端：        板载接地<br>
 
 ### 超声波测距模块<br>
 -------------------------------
