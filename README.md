@@ -14,7 +14,7 @@
 	 * STATE&nbsp;&nbsp;&nbsp;-------     X       状态指示端：		空脚<br>
 	 * RXD&emsp;&ensp;-------     PB10    蓝牙输入端：		引脚复用：USART3_TX<br>
 	 * TXD&emsp;&ensp;-------     PB11    蓝牙输出端：		引脚复用：USART3_RX<br>
-	 * GND&emsp;&ensp;-------     GND     蓝牙接地端：		板载接地<br>
+	 * GND&emsp;-------     GND     蓝牙接地端：		板载接地<br>
 	 * VCC&emsp;&ensp;-------     VCC     蓝牙供电端：		板载供电 +5V<br>
 	 * EN&emsp;&emsp;&nbsp;-------     X       蓝牙使能端：		空脚<br>
 
