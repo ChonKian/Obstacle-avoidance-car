@@ -37,9 +37,9 @@
 -------------------------------
  * HY-SRF05：<br>
 	 * VCC&emsp;------- VCC 超声波供电端：              板载供电 +5V<br>
-	 * TRIG   ------- PA2 超声波触发控制端：          普通输出：GPIOA_Pin_2<br>
-	 * ECHO   ------- PA3 超声波回响信号端：          普通输出：GPIOA_Pin_3<br>
-	 * OUT&emsp;------- X   超声波开关量输出端：        空脚<br>
+	 * TRIG&ensp;------- PA2 超声波触发控制端：          普通输出：GPIOA_Pin_2<br>
+	 * ECHO &thinsp;------- PA3 超声波回响信号端：          普通输出：GPIOA_Pin_3<br>
+	 * OUT&emsp;&thinsp;------- X   超声波开关量输出端：        空脚<br>
 	 * GND&emsp;------- GND 超声波供电端：              板载接地<br>
 
 ## 数据协议
