@@ -48,6 +48,6 @@
 -------------------------------
  * HC_05数据包协议：<br>
 	 * 包头&emsp;&ensp;-    1字节&emsp;-   固定值：0x5A<br>
-	 * 数据&emsp;&ensp;-    自定义  -   自定义<br>
+	 * 数据&emsp;&ensp;-    自定义 &thinsp;-   自定义<br>
 	 * 效验和 &thinsp;-    1字节&emsp;-   数据所有字节之和的低8位<br>
 	 * 包尾&emsp;&ensp;-    1字节&emsp;-   固定值：0x5A<br>
