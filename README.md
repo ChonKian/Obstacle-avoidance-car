@@ -16,7 +16,7 @@
 	 * TXD&emsp;&ensp;-------&emsp;PB11&emsp;&nbsp;蓝牙输出端：		引脚复用：USART3_RX<br>
 	 * GND&emsp;&thinsp;-------&emsp;GND&emsp;&nbsp;蓝牙接地端：		板载接地<br>
 	 * VCC&emsp;&ensp;-------&emsp;VCC&emsp;&nbsp;&nbsp;蓝牙供电端：		板载供电 +5V<br>
-	 * EN&emsp;&emsp;-------&emsp;X&emsp;&emsp;&emsp;蓝牙使能端：		空脚<br>
+	 * EN&emsp;&emsp;-------&emsp;X&emsp;&emsp;&ensp;&nbsp;蓝牙使能端：		空脚<br>
 
 ### 电机驱动板模块<br>
 -------------------------------
