@@ -11,12 +11,12 @@
 ### 蓝牙串口通信模块<br>
 -------------------------------
  * HC_05：<br>
-	 * STATE&nbsp;&nbsp;&nbsp;-------&emsp;X       状态指示端：		空脚<br>
+	 * STATE&nbsp;&nbsp;&nbsp;-------&emsp;X&emsp;&emsp;状态指示端：		空脚<br>
 	 * RXD&emsp;&ensp;-------&emsp;PB10    蓝牙输入端：		引脚复用：USART3_TX<br>
 	 * TXD&emsp;&ensp;-------&emsp;PB11    蓝牙输出端：		引脚复用：USART3_RX<br>
 	 * GND&emsp;&thinsp;-------&emsp;GND     蓝牙接地端：		板载接地<br>
 	 * VCC&emsp;&ensp;-------&emsp;VCC     蓝牙供电端：		板载供电 +5V<br>
-	 * EN&emsp;&emsp;-------&emsp;X       蓝牙使能端：		空脚<br>
+	 * EN&emsp;&emsp;-------&emsp;X&emsp;&emsp;蓝牙使能端：		空脚<br>
 
 ### 电机驱动板模块<br>
 -------------------------------
